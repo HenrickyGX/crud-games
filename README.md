@@ -6,8 +6,7 @@ ele irá apresentar games e seus respectivos preços e categoria(genero), e sua 
 
 ## Instalação do React
 
-Instale my-project com npm
-
+Instale o react
 ```bash
   npx create-react-app crud
   cd crud
