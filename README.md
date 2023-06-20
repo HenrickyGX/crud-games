@@ -1,6 +1,6 @@
 # CRUD de Games
 
-Este é um projeto de um CRUD de games desenvolvido utilizando React.js e Vite. O CRUD permite a criação, leitura, atualização e exclusão de informações sobre jogos.
+Este é um projeto de um CRUD de games desenvolvido utilizando React.js. O CRUD permite a criação, leitura, atualização e exclusão de informações sobre jogos.
 
 ## Funcionalidades
 
