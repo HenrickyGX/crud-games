@@ -45,15 +45,10 @@ npm run dev
 A estrutura de pastas e arquivos do projeto é organizada da seguinte maneira:
 
 - **src**: Contém o código fonte do projeto.
-- **components**: Contém os componentes reutilizáveis da aplicação.
-- **pages**: Contém as páginas principais do CRUD.
-- **services**: Contém os serviços responsáveis pela comunicação com a API backend.
-- **utils**: Contém funções utilitárias.
-- **App.js**: Componente principal da aplicação.
-- **index.js**: Arquivo de entrada da aplicação.
+- **App.tsx**: Componente principal da aplicação.
 
 ## Tecnologias Utilizadas
 
 - React.js: Uma biblioteca JavaScript para construir interfaces de usuário.
-- Vite: Um construtor de aplicativos web rápido e leve para o ecossistema JavaScript.
+
 
